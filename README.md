@@ -217,10 +217,9 @@ which automatically perform tasks.
 8. [rOOtMe](https://www.root-me.org/)<br>
 9. [Zenk](https://www.zenk-security.com/epreuves.php)<br>
 10. [w3challs](https://w3challs.com/)<br>
-11. [newbieContest](https://www.newbiecontest.org/)<br>
-12. [picoCTF](https://picoctf.com/)<br>
-13. [pwnable](https://pwnable.kr/play.php)<br>
-14. [TryHackme](https://tryhackme.com/)
+11. [picoCTF](https://picoctf.com/)<br>
+12. [pwnable](https://pwnable.kr/play.php)<br>
+13. [TryHackme](https://tryhackme.com/)
 
 
 
